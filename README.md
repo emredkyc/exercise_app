@@ -1,1 +1,1 @@
-React Fitness Exercise Application
+React Exercise Application
